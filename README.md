@@ -1,10 +1,10 @@
-# 🎵 jQuery Audio Player
+#  jQuery Audio Player
 
 A lightweight jQuery-based audio player for playing and managing a playlist of audio files. Built with `Plyr` for enhanced audio controls and compatibility.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Playlist Navigation**: Play, pause, and navigate through multiple tracks.
 - **Media Controls**: Basic controls for play, pause, mute, volume, and seeking.
@@ -13,7 +13,7 @@ A lightweight jQuery-based audio player for playing and managing a playlist of a
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. **Clone the repository**:
    ```bash
@@ -31,7 +31,7 @@ A lightweight jQuery-based audio player for playing and managing a playlist of a
    Open `index.html` in your browser to start playing audio files!
 ---
 
-## 🛠 Dependencies
+##  Dependencies
 
 - **jQuery**: For DOM manipulation and event handling.
 - **Plyr**: Provides enhanced audio controls and media player UI.
